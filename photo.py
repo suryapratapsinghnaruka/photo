@@ -142,4 +142,4 @@ def pdf():
    
 
 if __name__ == '__main__':
-    app.run(https://image-processing-izgo.onrender.com)
+    app.run()
